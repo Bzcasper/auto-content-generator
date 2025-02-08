@@ -1,0 +1,41 @@
+{
+    "urls": [
+        "https://www.instructables.com/circuits/",
+        "https://www.instructables.com/technology/",
+        "https://www.familyhandyman.com/list/beginner-woodworking-projects/",
+        "https://www.makeprojects.com/projects",
+        "https://www.hackster.io/projects",
+        "https://www.diyphotography.net/diy_guides/",
+        "https://makezine.com/projects/",
+        "https://www.apartmenttherapy.com/categories/diy",
+        "https://www.doityourself.com/",
+        "https://www.ana-white.com/woodworking-projects",
+        "https://www.craftpassion.com/category/tutorial/",
+        "https://www.homemade-modern.com/",
+        "https://www.shanty-2-chic.com/diy-projects",
+        "https://www.popularmechanics.com/home/how-to-plans/",
+        "https://www.bobvila.com/projects"
+    ],
+    "categories": {
+        "woodworking": [
+            "https://www.woodsmith.com/plans/",
+            "https://www.finewoodworking.com/project-guides"
+        ],
+        "electronics": [
+            "https://www.hackster.io/arduino/projects",
+            "https://learn.adafruit.com/guides/featured"
+        ],
+        "gardening": [
+            "https://www.finegardening.com/project-guides",
+            "https://www.familyhandyman.com/list/outdoor-projects/"
+        ],
+        "home_improvement": [
+            "https://www.thisoldhouse.com/diy",
+            "https://www.familyhandyman.com/projects/"
+        ],
+        "crafts": [
+            "https://www.craftster.org/projects/",
+            "https://www.designsponge.com/category/diy"
+        ]
+    }
+}
