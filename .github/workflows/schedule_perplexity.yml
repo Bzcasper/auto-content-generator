@@ -23,6 +23,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
+      - name: Verify Files
+        run: ls -R  # Check if the file exists in the workspace
+
       - name: Run Fetch & Store Script
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
