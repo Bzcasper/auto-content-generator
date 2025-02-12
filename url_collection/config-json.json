@@ -1,0 +1,20 @@
+{
+    "supabase": {
+        "url": "YOUR_SUPABASE_URL",
+        "api_key": "YOUR_SUPABASE_API_KEY",
+        "table": "content"
+    },
+    "obsidian": {
+        "vault_path": "/path/to/your/obsidian/vault",
+        "content_template": "templates/content.md"
+    },
+    "crawl4ai": {
+        "api_key": "YOUR_CRAWL4AI_API_KEY"
+    },
+    "image_processing": {
+        "max_width": 800,
+        "max_height": 600,
+        "format": "webp",
+        "quality": 85
+    }
+}

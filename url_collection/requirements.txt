@@ -1,0 +1,6 @@
+crawl4ai
+pydantic
+pillow
+aiohttp
+supabase
+python-dotenv
